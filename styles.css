@@ -6,7 +6,7 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     margin:0;
-    /* display:flex */
+    display:flex
 }
 
 .sidebar{
@@ -29,7 +29,7 @@ body{
 
 .content-container{
     /* flex:4; */
-    border: 1px solid rgb(212, 212, 212);
+    /* border: 1px solid rgb(212, 212, 212); */
     width: 80%;
     position: relative;
     left:20%;
